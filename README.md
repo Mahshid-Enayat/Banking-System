@@ -6,7 +6,7 @@ In this project a banking system is implemented. In this system, you have two ty
 
 Now i am going to describe some details about the project:
 
-The abilities of admin:/n
+The abilities of admin:
     Management of customer account opening requests
     Add balance to the target customer's account
     Close customer account
