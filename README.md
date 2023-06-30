@@ -8,8 +8,8 @@ The project is built with **C++ and QT Libs**
 
  # The abilities of admin:
     - Management of customer account opening requests
-    - Add balance to the target customer's account
-    - Close customer account
+    * Add balance to the target customer's account
+    + Close customer account
     - Lending to customers
     Note: The admin's username is Admin and its password is adminramz
 
