@@ -2,18 +2,18 @@
 
 The project is built with **C++ and QT Libs**
 
-# In this project a banking system is implemented. In this system, you have two types of users: client and admin. Clients can open an account and perform some operations. The admin is also able to manage clients and processes.
+ In this project a banking system is implemented. In this system, you have two types of users: client and admin. Clients can open an account and perform some operations. The admin is also able to manage clients and processes.
 
-# Now i am going to describe some details about the project:
+ Now i am going to describe some details about the project:
 
-# The abilities of admin:
+ The abilities of admin:
     Management of customer account opening requests
     Add balance to the target customer's account
     Close customer account
     Lending to customers
     Note: The admin's username is Admin and its password is adminramz
 
-# The abilities of clients:
+ The abilities of clients:
     View the code, address and phone number of different bank branches
     Registration in the bank system
     Login and logout
