@@ -1,0 +1,25 @@
+<RCC>
+    <qresource prefix="/">
+        <file>admin.png</file>
+        <file>bankbranch.png</file>
+        <file>c.png</file>
+        <file>editprofile.png</file>
+        <file>eye.jpg</file>
+        <file>login.png</file>
+        <file>logo.jpg</file>
+        <file>PRO.qrc</file>
+        <file>signup.png</file>
+        <file>bank.png</file>
+        <file>block.png</file>
+        <file>cheque.png</file>
+        <file>loan.png</file>
+        <file>addAccount.png</file>
+        <file>log.png</file>
+        <file>transfer.png</file>
+        <file>net.png</file>
+        <file>card.png</file>
+        <file>bill.jpeg</file>
+        <file>charg.jpeg</file>
+        <file>mybank.jpg</file>
+    </qresource>
+</RCC>
