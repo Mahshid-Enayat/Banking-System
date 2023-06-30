@@ -1,0 +1,337 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>BuyNet</class>
+ <widget class="QDialog" name="BuyNet">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>576</width>
+    <height>534</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>Buy Net</string>
+  </property>
+  <widget class="QLabel" name="label">
+   <property name="geometry">
+    <rect>
+     <x>382</x>
+     <y>20</y>
+     <width>181</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>Choose an Item :</string>
+   </property>
+  </widget>
+  <widget class="QTableWidget" name="tableWidget">
+   <property name="geometry">
+    <rect>
+     <x>1</x>
+     <y>21</y>
+     <width>371</width>
+     <height>511</height>
+    </rect>
+   </property>
+   <property name="autoFillBackground">
+    <bool>false</bool>
+   </property>
+   <property name="editTriggers">
+    <set>QAbstractItemView::NoEditTriggers</set>
+   </property>
+   <attribute name="horizontalHeaderDefaultSectionSize">
+    <number>159</number>
+   </attribute>
+   <row>
+    <property name="text">
+     <string>1</string>
+    </property>
+   </row>
+   <row>
+    <property name="text">
+     <string>2</string>
+    </property>
+   </row>
+   <row>
+    <property name="text">
+     <string>3</string>
+    </property>
+   </row>
+   <row>
+    <property name="text">
+     <string>4</string>
+    </property>
+   </row>
+   <row>
+    <property name="text">
+     <string>5</string>
+    </property>
+   </row>
+   <row>
+    <property name="text">
+     <string>6</string>
+    </property>
+   </row>
+   <row>
+    <property name="text">
+     <string>7</string>
+    </property>
+   </row>
+   <row>
+    <property name="text">
+     <string>8</string>
+    </property>
+   </row>
+   <row>
+    <property name="text">
+     <string>9</string>
+    </property>
+   </row>
+   <row>
+    <property name="text">
+     <string>10</string>
+    </property>
+   </row>
+   <row>
+    <property name="text">
+     <string>11</string>
+    </property>
+   </row>
+   <row>
+    <property name="text">
+     <string>12</string>
+    </property>
+   </row>
+   <column>
+    <property name="text">
+     <string>Internet(GB)</string>
+    </property>
+   </column>
+   <column>
+    <property name="text">
+     <string>Price</string>
+    </property>
+   </column>
+   <item row="0" column="0">
+    <property name="text">
+     <string>7 GB</string>
+    </property>
+   </item>
+   <item row="0" column="1">
+    <property name="text">
+     <string>300000</string>
+    </property>
+   </item>
+   <item row="1" column="0">
+    <property name="text">
+     <string>10 GB</string>
+    </property>
+   </item>
+   <item row="1" column="1">
+    <property name="text">
+     <string>350000</string>
+    </property>
+   </item>
+   <item row="2" column="0">
+    <property name="text">
+     <string>15 GB</string>
+    </property>
+   </item>
+   <item row="2" column="1">
+    <property name="text">
+     <string>450000</string>
+    </property>
+   </item>
+   <item row="3" column="0">
+    <property name="text">
+     <string>20 GB</string>
+    </property>
+   </item>
+   <item row="3" column="1">
+    <property name="text">
+     <string>500000</string>
+    </property>
+   </item>
+   <item row="4" column="0">
+    <property name="text">
+     <string>25 GB</string>
+    </property>
+   </item>
+   <item row="4" column="1">
+    <property name="text">
+     <string>580000</string>
+    </property>
+   </item>
+   <item row="5" column="0">
+    <property name="text">
+     <string>30 GB</string>
+    </property>
+   </item>
+   <item row="5" column="1">
+    <property name="text">
+     <string>650000</string>
+    </property>
+   </item>
+   <item row="6" column="0">
+    <property name="text">
+     <string>35 GB</string>
+    </property>
+   </item>
+   <item row="6" column="1">
+    <property name="text">
+     <string>700000</string>
+    </property>
+   </item>
+   <item row="7" column="0">
+    <property name="text">
+     <string>40 GB</string>
+    </property>
+   </item>
+   <item row="7" column="1">
+    <property name="text">
+     <string>740000</string>
+    </property>
+   </item>
+   <item row="8" column="0">
+    <property name="text">
+     <string>45 GB</string>
+    </property>
+   </item>
+   <item row="8" column="1">
+    <property name="text">
+     <string>800000</string>
+    </property>
+   </item>
+   <item row="9" column="0">
+    <property name="text">
+     <string>50 GB</string>
+    </property>
+   </item>
+   <item row="9" column="1">
+    <property name="text">
+     <string>840000</string>
+    </property>
+   </item>
+   <item row="10" column="0">
+    <property name="text">
+     <string>55 GB</string>
+    </property>
+   </item>
+   <item row="10" column="1">
+    <property name="text">
+     <string>890000</string>
+    </property>
+   </item>
+   <item row="11" column="0">
+    <property name="text">
+     <string>60 GB</string>
+    </property>
+   </item>
+   <item row="11" column="1">
+    <property name="text">
+     <string>950000</string>
+    </property>
+   </item>
+  </widget>
+  <widget class="QWidget" name="verticalLayoutWidget">
+   <property name="geometry">
+    <rect>
+     <x>370</x>
+     <y>50</y>
+     <width>191</width>
+     <height>451</height>
+    </rect>
+   </property>
+   <layout class="QVBoxLayout" name="verticalLayout">
+    <item>
+     <widget class="QPushButton" name="p1">
+      <property name="text">
+       <string>1</string>
+      </property>
+     </widget>
+    </item>
+    <item>
+     <widget class="QPushButton" name="p2">
+      <property name="text">
+       <string>2</string>
+      </property>
+     </widget>
+    </item>
+    <item>
+     <widget class="QPushButton" name="p3">
+      <property name="text">
+       <string>3</string>
+      </property>
+     </widget>
+    </item>
+    <item>
+     <widget class="QPushButton" name="p4">
+      <property name="text">
+       <string>4</string>
+      </property>
+     </widget>
+    </item>
+    <item>
+     <widget class="QPushButton" name="p5">
+      <property name="text">
+       <string>5</string>
+      </property>
+     </widget>
+    </item>
+    <item>
+     <widget class="QPushButton" name="p6">
+      <property name="text">
+       <string>6</string>
+      </property>
+     </widget>
+    </item>
+    <item>
+     <widget class="QPushButton" name="p7">
+      <property name="text">
+       <string>7</string>
+      </property>
+     </widget>
+    </item>
+    <item>
+     <widget class="QPushButton" name="p8">
+      <property name="text">
+       <string>8</string>
+      </property>
+     </widget>
+    </item>
+    <item>
+     <widget class="QPushButton" name="p9">
+      <property name="text">
+       <string>9</string>
+      </property>
+     </widget>
+    </item>
+    <item>
+     <widget class="QPushButton" name="p10">
+      <property name="text">
+       <string>10</string>
+      </property>
+     </widget>
+    </item>
+    <item>
+     <widget class="QPushButton" name="p11">
+      <property name="text">
+       <string>11</string>
+      </property>
+     </widget>
+    </item>
+    <item>
+     <widget class="QPushButton" name="p12">
+      <property name="text">
+       <string>12</string>
+      </property>
+     </widget>
+    </item>
+   </layout>
+  </widget>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>
