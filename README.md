@@ -7,11 +7,11 @@ The project is built with **C++ and QT Libs**
  # Now i am going to describe some details about the project:
 
  # The abilities of admin:
-    - Management of customer account opening requests
-    * Add balance to the target customer's account
-    + Close customer account
-    - Lending to customers
-    Note: The admin's username is Admin and its password is adminramz
+ - Management of customer account opening requests
+ * Add balance to the target customer's account
+ + Close customer account
+ - Lending to customers
+ Note: The admin's username is Admin and its password is adminramz
 
  # The abilities of clients:
     View the code, address and phone number of different bank branches
